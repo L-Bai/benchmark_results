@@ -84,6 +84,13 @@
   "Learning Discriminative Model Prediction for Tracking." . 
   [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
 
+### ICCV2019
+
+* **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
+  "Learning Discriminative Model Prediction for Tracking." ICCV (2019 **oral**).
+  [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
+  [[code](https://github.com/visionml/pytracking)]  
+
 ### CVPR2019
 
 * **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr.<br />
