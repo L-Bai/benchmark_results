@@ -12,16 +12,31 @@
 
 ### :star2: Recommendations :star2:
 
-* **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
-  "Learning Discriminative Model Prediction for Tracking." . 
-  [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
+### AAAI2020
+
+- **[SPSTracker]** SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking
+- **[SiamFC++]** SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines
+- **[GlobalTrack]** GlobalTrack: A Simple and Strong Baseline for Long-term Tracking
+- **[DROL]** Discriminative and Robust Online Learning for Siamese Visual Tracking
+- **[SiamMan]** SiamMan: Siamese Motion-aware Network for Visual Tracking
+- **[]** Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning
+
 
 ### ICCV2019
-
-* **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
-  "Learning Discriminative Model Prediction for Tracking." ICCV (2019 **oral**).
-  [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
-  [[code](https://github.com/visionml/pytracking)]  
+  
+- **[GradNet]** GradNet: Gradient-Guided Network for Visual Object Tracking
+	- `oral`
+- **[DiMP]** Learning Discriminative Model Prediction for Tracking
+	- `oral`
+- **[MLT]** Deep Meta Learning for Real-Time Target-Aware Visual Tracking
+	- `meta`
+- **[SPLT]** 'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking
+	- `long-term`
+- **[]** Bridging the Gap Between Detection and Tracking: A Unified Approach
+	- `Detection and Tracking`
+- **[UpdateNet]** Learning the Model Update for Siamese Trackers
+	- `update`
+- **[GFS-DCF]** Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking
 
 ### CVPR2019
 
