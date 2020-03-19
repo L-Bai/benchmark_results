@@ -12,6 +12,13 @@
 
 ### :star2: Recommendations :star2:
 
+### CVPR2020
+- **[D3S]** Alan Lukežič, Jiří Matas and Matej Kristan.<br />
+  "D3S - A Discriminative Single Shot Segmentation Tracker"
+  [[paper](http://arxiv.org/abs/1911.08862)]
+  [[project]()]
+  [[code](https://github.com/alanlukezic/d3s)]
+
 ### AAAI2020
 
 - **[SPSTracker]** SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking
