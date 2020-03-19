@@ -16,34 +16,83 @@
 - **[D3S]** Alan Lukežič, Jiří Matas and Matej Kristan.<br />
   "D3S - A Discriminative Single Shot Segmentation Tracker"
   [[paper](http://arxiv.org/abs/1911.08862)]
-  [[project]()]
   [[code](https://github.com/alanlukezic/d3s)]
+  
+- **[SiamBAN]** Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji.<br />
+  "Siamese Box Adaptive Network for Visual Tracking"
+  [[paper](http://arxiv.org/abs/2003.06761)]
+  [[code](https://github.com/hqucv/siamban)]
+  
+- **[ROAM]** Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan.<br />
+  "ROAM: Recurrently Optimizing Tracking Model"
+  [[paper](http://arxiv.org/abs/1907.12006)]
+  
 
 ### AAAI2020
 
-- **[SPSTracker]** SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking
-- **[SiamFC++]** SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines
-- **[GlobalTrack]** GlobalTrack: A Simple and Strong Baseline for Long-term Tracking
-- **[DROL]** Discriminative and Robust Online Learning for Siamese Visual Tracking
-- **[SiamMan]** SiamMan: Siamese Motion-aware Network for Visual Tracking
-- **[]** Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning
-
+- **[SPSTracker]** Qintao Hu, Lijun Zhou, Xiaoxiao Wang, Yao Mao, Jianlin Zhang, Qixiang Ye.<br />
+  "SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking"
+  [[paper](https://arxiv.org/abs/1912.00597)]
+  [[code](https://github.com/TrackerLB/SPSTracker)]
+  
+- **[SiamFC++]** Yinda Xu, Zeyu Wang, Zuoxin Li, Ye Yuan, Gang Yu.<br />
+  "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines"
+  [[paper](https://arxiv.org/abs/1911.06188)]
+  [[code](https://github.com/MegviiDetection/video_analyst)]
+  
+- **[GlobalTrack]** Lianghua Huang, Xin Zhao, Kaiqi Huang.<br />
+  "GlobalTrack: A Simple and Strong Baseline for Long-term Tracking"
+  [[paper](http://arxiv.org/abs/1912.08531)]
+  [[code](https://github.com/huanglianghua/GlobalTrack)]
+  
+- **[DROL]** Jinghao Zhou, Peng Wang, Haoyang Sun.<br />
+  "Discriminative and Robust Online Learning for Siamese Visual Tracking"
+  [[paper](https://arxiv.org/abs/1909.02959)]
+  [[code](https://github.com/shallowtoil/DROL)]
+  
+- **[SiamMan]** Wenzhang Zhou, Longyin Wen, Libo Zhang Dawei Du, Tiejian Luo, Yanjun Wu.<br />
+  "SiamMan: Siamese Motion-aware Network for Visual Tracking"
+  [[paper](https://arxiv.org/abs/1912.05515v1)]
+  [[code](https://isrc.iscas.ac.cn/gitlab/research/siamman)]
+  
+- **[MetaRTT]** Ilchae Jung, Kihyun You, Hyeonwoo Noh, Minsu Cho, Bohyung Han.<br />
+  "Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning"
+  [[paper](http://arxiv.org/abs/1911.11170)]
 
 ### ICCV2019
   
-- **[GradNet]** GradNet: Gradient-Guided Network for Visual Object Tracking
-	- `oral`
-- **[DiMP]** Learning Discriminative Model Prediction for Tracking
-	- `oral`
-- **[MLT]** Deep Meta Learning for Real-Time Target-Aware Visual Tracking
-	- `meta`
-- **[SPLT]** 'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking
-	- `long-term`
-- **[]** Bridging the Gap Between Detection and Tracking: A Unified Approach
-	- `Detection and Tracking`
-- **[UpdateNet]** Learning the Model Update for Siamese Trackers
-	- `update`
-- **[GFS-DCF]** Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking
+- **[GradNet]** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang†, Xiaoyun Yang, Huchuan Lu.<br />
+  "GradNet: Gradient-Guided Network for Visual Object Tracking" (**oral**)
+  [[paper](http://arxiv.org/abs/1909.06800)]
+  [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+  
+- **[DiMP]** Goutam Bhat, Martin Danelljan,  Luc Van Gool, Radu Timofte.<br />
+  "Learning Discriminative Model Prediction for Tracking" (**oral**)
+  [[paper](http://arxiv.org/abs/1904.07220)]
+  [[code](https://github.com/visionml/pytracking)]
+  
+- **[MLT]** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee.<br />
+  "Deep Meta Learning for Real-Time Target-Aware Visual Tracking"
+  [[paper](http://arxiv.org/abs/1712.09153)]
+  
+- **[SPLT]** Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu and Xiaoyun Yang.<br />
+  "'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking"
+  [[paper](http://arxiv.org/abs/1909.01840)]
+  [[code](https://github.com/iiau-tracker/SPLT)]
+
+- **[]** Lianghua Huang, Xin Zhao, Kaiqi Huang.<br />
+  "Bridging the Gap Between Detection and Tracking: A Unified Approach"
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.html)]
+  
+- **[UpdateNet]** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan.<br />
+  "Learning the Model Update for Siamese Trackers"
+  [[paper](http://arxiv.org/abs/1908.00855)]
+  [[code](https://github.com/zhanglichao/updatenet)]
+
+- **[GFS-DCF]** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler.<br />
+  "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking"
+  [[paper](http://arxiv.org/abs/1907.13242)]
+  [[code](https://github.com/XU-TIANYANG/GFS-DCF)]
 
 ### CVPR2019
 
