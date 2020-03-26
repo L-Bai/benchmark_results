@@ -11,6 +11,10 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+- **[AdaFree]** <br />
+  "Learning Object-aware Anchor-free Networks for Real-time Object Tracking"
+  [[paper]()]
+  [[code](https://github.com/cvsubmit/ocean)]
 
 ### CVPR2020
 - **[D3S]** Alan Lukežič, Jiří Matas and Matej Kristan.<br />
