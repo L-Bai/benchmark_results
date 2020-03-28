@@ -36,9 +36,6 @@
   [[paper](https://arxiv.org/abs/2003.09595)]
   [[code](https://github.com/MasterBin-IIAU/CSA)]
  
- - **[MAST]** Zihang Lai, Erika Lu, Weidi Xie.<br />
-  "MAST: A Memory-Augmented Self-supervised Tracker"
-  [[paper](https://arxiv.org/abs/2002.07793)]
   
 
 ### AAAI2020
