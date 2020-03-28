@@ -31,7 +31,7 @@
   "ROAM: Recurrently Optimizing Tracking Model"
   [[paper](http://arxiv.org/abs/1907.12006)]
   
-- **[CAS]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang.<br />
+- **[CSA]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang.<br />
   "Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises"
   [[paper](https://arxiv.org/abs/2003.09595)]
   [[code](https://github.com/MasterBin-IIAU/CSA)]
