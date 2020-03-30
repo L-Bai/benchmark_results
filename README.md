@@ -35,7 +35,11 @@
   "Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises"
   [[paper](https://arxiv.org/abs/2003.09595)]
   [[code](https://github.com/MasterBin-IIAU/CSA)]
- 
+  
+- **[PrDiMP]** Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
+  "Probabilistic Regression for Visual Tracking"
+  [[paper](https://arxiv.org/abs/2003.12565)]
+  [[code](https://github.com/visionml/pytracking)]
   
 
 ### AAAI2020
