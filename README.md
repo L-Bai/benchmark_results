@@ -41,6 +41,12 @@
   [[paper](https://arxiv.org/abs/2003.12565)]
   [[code](https://github.com/visionml/pytracking)]
   
+- **[LTMU]** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
+  "High-Performance Long-Term Tracking with Meta-Updater" (**Oral**)
+  [[paper](https://arxiv.org/abs/2004.00305)]
+  [[code](https://github.com/Daikenan/LTMU)]
+
+  
 
 ### AAAI2020
 
