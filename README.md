@@ -49,6 +49,11 @@
 - **[MAML]** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.<br />
   "Tracking by Instance Detection: A Meta-Learning Approach" (**oral**)
   [[paper](https://arxiv.org/abs/2004.00830)]
+  
+- **[Siam R-CNN]** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.<br />
+  "Siam R-CNN: Visual Tracking by Re-Detection"
+  [[paper](https://arxiv.org/abs/1911.12836)]
+  [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
 
 
   
