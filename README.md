@@ -45,6 +45,11 @@
   "High-Performance Long-Term Tracking with Meta-Updater" (**Oral**)
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)]
+  
+- **[MAML]** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.<br />
+  "Tracking by Instance Detection: A Meta-Learning Approach" (**oral**)
+  [[paper](https://arxiv.org/abs/2004.00830)]
+
 
   
 
