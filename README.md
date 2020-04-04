@@ -17,6 +17,15 @@
   [[code](https://github.com/cvsubmit/ocean)]
 
 ### CVPR2020
+- **[LTMU]** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
+  "High-Performance Long-Term Tracking with Meta-Updater" (**oral**)
+  [[paper](https://arxiv.org/abs/2004.00305)]
+  [[code](https://github.com/Daikenan/LTMU)]
+  
+- **[MAML]** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.<br />
+  "Tracking by Instance Detection: A Meta-Learning Approach" (**oral**)
+  [[paper](https://arxiv.org/abs/2004.00830)]
+
 - **[D3S]** Alan Lukežič, Jiří Matas and Matej Kristan.<br />
   "D3S - A Discriminative Single Shot Segmentation Tracker"
   [[paper](http://arxiv.org/abs/1911.08862)]
@@ -40,15 +49,6 @@
   "Probabilistic Regression for Visual Tracking"
   [[paper](https://arxiv.org/abs/2003.12565)]
   [[code](https://github.com/visionml/pytracking)]
-  
-- **[LTMU]** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
-  "High-Performance Long-Term Tracking with Meta-Updater" (**oral**)
-  [[paper](https://arxiv.org/abs/2004.00305)]
-  [[code](https://github.com/Daikenan/LTMU)]
-  
-- **[MAML]** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.<br />
-  "Tracking by Instance Detection: A Meta-Learning Approach" (**oral**)
-  [[paper](https://arxiv.org/abs/2004.00830)]
   
 - **[Siam R-CNN]** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.<br />
   "Siam R-CNN: Visual Tracking by Re-Detection"
