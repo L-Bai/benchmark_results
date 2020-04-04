@@ -42,7 +42,7 @@
   [[code](https://github.com/visionml/pytracking)]
   
 - **[LTMU]** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
-  "High-Performance Long-Term Tracking with Meta-Updater" (**Oral**)
+  "High-Performance Long-Term Tracking with Meta-Updater" (**oral**)
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)]
   
@@ -54,6 +54,11 @@
   "Siam R-CNN: Visual Tracking by Re-Detection"
   [[paper](https://arxiv.org/abs/1911.12836)]
   [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
+  
+- **[SiamCAR]** Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen.<br />
+  "SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking"
+  [[paper](https://arxiv.org/abs/1911.07241)]
+  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
 
 
   
