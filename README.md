@@ -60,6 +60,10 @@
   [[paper](https://arxiv.org/abs/1911.07241)]
   [[code](https://github.com/ohhhyeahhh/SiamCAR)]
 
+- **[SiamAttn]** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott.<br />
+  "Deformable Siamese Attention Networks for Visual Object Tracking"
+  [[paper](https://arxiv.org/abs/2004.06711)]
+
 
   
 
