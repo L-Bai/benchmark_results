@@ -65,6 +65,9 @@
   "Deformable Siamese Attention Networks for Visual Object Tracking"
   [[paper](https://arxiv.org/abs/2004.06711)]
 
+- **[]** Fei Du, Peng Liu, Wei Zhao, Xianglong Tang.<br /> 
+  "Correlation-Guided Attention for Corner Detection Based Visual Tracking"
+  
 
   
 
