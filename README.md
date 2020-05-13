@@ -123,7 +123,7 @@
   [[paper](http://arxiv.org/abs/1909.01840)]
   [[code](https://github.com/iiau-tracker/SPLT)]
 
-- **[]** Lianghua Huang, Xin Zhao, Kaiqi Huang.<br />
+- **[Bridging]** Lianghua Huang, Xin Zhao, Kaiqi Huang.<br />
   "Bridging the Gap Between Detection and Tracking: A Unified Approach"
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.html)]
   
@@ -160,8 +160,9 @@
   [[paper](https://arxiv.org/pdf/1901.01660.pdf)]
   [[code](https://github.com/researchmm/SiamDW)]
 
-* **:** Junyu Gao, Tianzhu Zhang, Changsheng Xu.<br />
+* **[GCT]** Junyu Gao, Tianzhu Zhang, Changsheng Xu.<br />
   "Graph Convolutional Tracking." CVPR (2019 **oral**).
+  [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/jygao/gct_cvpr2019.html)]
 
 * **[ASRCF]** Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li. <br />
   "Visual Tracking via Adaptive Spatially-Regularized Correlation Filters." CVPR (2019 **oral**).
