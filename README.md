@@ -57,7 +57,7 @@
   [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
   
 - **[SiamCAR]** Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen.<br />
-  "SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking"
+  "SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking" (**Oral**)
   [[paper](https://arxiv.org/abs/1911.07241)]
   [[code](https://github.com/ohhhyeahhh/SiamCAR)]
 
