@@ -25,7 +25,12 @@
 - **[MAML]** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.<br />
   "Tracking by Instance Detection: A Meta-Learning Approach" (**oral**)
   [[paper](https://arxiv.org/abs/2004.00830)]
-
+  
+- **[SiamCAR]** Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen.<br />
+  "SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking" (**oral**)
+  [[paper](https://arxiv.org/abs/1911.07241)]
+  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
+  
 - **[D3S]** Alan Lukežič, Jiří Matas and Matej Kristan.<br />
   "D3S - A Discriminative Single Shot Segmentation Tracker"
   [[paper](http://arxiv.org/abs/1911.08862)]
@@ -55,11 +60,6 @@
   "Siam R-CNN: Visual Tracking by Re-Detection"
   [[paper](https://arxiv.org/abs/1911.12836)]
   [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
-  
-- **[SiamCAR]** Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen.<br />
-  "SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking" (**Oral**)
-  [[paper](https://arxiv.org/abs/1911.07241)]
-  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
 
 - **[SiamAttn]** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott.<br />
   "Deformable Siamese Attention Networks for Visual Object Tracking"
