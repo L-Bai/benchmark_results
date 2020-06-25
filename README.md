@@ -75,7 +75,7 @@
   "Correlation-Guided Attention for Corner Detection Based Visual Tracking"
   [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.html)]
   
-#### reject
+#### rejected
   - **[SiamKPN]** Li Qiang, Qin Zekui, Zhang Wenbo, Zheng Wen <br />
   "Siamese Keypoint Prediction Network for Visual Object Tracking"
   [[paper](https://arxiv.org/abs/2006.04078)]
