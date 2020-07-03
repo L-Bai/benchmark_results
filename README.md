@@ -104,14 +104,15 @@
   [[paper](https://arxiv.org/abs/1909.02959)]
   [[code](https://github.com/shallowtoil/DROL)]
   
+- **[MetaRTT]** Ilchae Jung, Kihyun You, Hyeonwoo Noh, Minsu Cho, Bohyung Han.<br />
+  "Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning"
+  [[paper](http://arxiv.org/abs/1911.11170)]
+  
+#### rejected？
 - **[SiamMan]** Wenzhang Zhou, Longyin Wen, Libo Zhang Dawei Du, Tiejian Luo, Yanjun Wu.<br />
   "SiamMan: Siamese Motion-aware Network for Visual Tracking"
   [[paper](https://arxiv.org/abs/1912.05515v1)]
   [[code](https://isrc.iscas.ac.cn/gitlab/research/siamman)]
-  
-- **[MetaRTT]** Ilchae Jung, Kihyun You, Hyeonwoo Noh, Minsu Cho, Bohyung Han.<br />
-  "Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning"
-  [[paper](http://arxiv.org/abs/1911.11170)]
 
 ### ICCV2019
   
