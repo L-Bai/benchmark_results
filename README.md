@@ -293,6 +293,10 @@
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf)] 
   [[project](http://tracking-net.org/)]
 
+* **[SiamMCF]** Henrique Morimitsu. <br />
+  "Multiple context features in siamese networks for visual object tracking"
+  [[paper](https://openaccess.thecvf.com/content_eccv_2018_workshops/w1/html/Morimitsu_Multiple_Context_Features_in_Siamese_Networks_for_Visual_Object_Tracking_ECCVW_2018_paper.html)]
+  [[code](https://github.com/hmorimitsu/siam-mcf)]
   
 ### CVPR2018
 
