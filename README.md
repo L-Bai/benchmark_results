@@ -292,6 +292,8 @@
   "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf)] 
   [[project](http://tracking-net.org/)]
+  
+#### workshop
 
 * **[SiamMCF]** Henrique Morimitsu. <br />
   "Multiple context features in siamese networks for visual object tracking"
