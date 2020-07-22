@@ -11,16 +11,27 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
-- **[Ocean]** Zhipeng Zhang, Houwen Peng <br />
+- **[FCOT]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu <br />
+  "Fully Convolutional Online Tracking"
+  [[paper](https://arxiv.org/abs/2004.07109)]
+  [[code](https://github.com/MCG-NJU/FCOT)]
+
+### ECCV 2020
+- **[Ocean]** Zhipeng Zhang, Houwen Peng. <br />
   "Ocean: Object-aware Anchor-free Tracking"
   [[paper](https://arxiv.org/abs/2006.10721)]
   [[code1](https://github.com/cvsubmit/ocean)]
   [[code2](https://github.com/researchmm/TracKit)]
   
-- **[FCOT]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu <br />
-  "Fully Convolutional Online Tracking"
-  [[paper](https://arxiv.org/abs/2004.07109)]
-  [[code](https://github.com/MCG-NJU/FCOT)]
+- **[KYS]** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
+  "Know Your Surroundings: Exploiting Scene Information for Object Tracking." 
+  [[paper](http://arxiv.org/abs/2003.11014)]
+  [[code]()]
+  
+- **[RTAA]** Shuai Jia, Chao Ma, Yibing Song and Xiaokang Yang.<br />
+  "Robust Tracking against Adversarial Attacks"
+  [[paper](http://arxiv.org/abs/2007.09919)]
+  [[code](https://github.com/joshuajss/RTAA)]
 
 ### CVPR2020
 - **[LTMU]** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
