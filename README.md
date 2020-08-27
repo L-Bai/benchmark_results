@@ -24,7 +24,7 @@
 - **[RPT]** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin.<br />
   "RPT: Learning Point Set Representation for Siamese Visual Tracking"
   [[paper](http://xxx.itp.ac.cn/pdf/2008.03467)]
-  [[code]()]
+
 
 ### ECCV 2020
 - **[Ocean]** Zhipeng Zhang, Houwen Peng. <br />
@@ -36,7 +36,7 @@
 - **[KYS]** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
   "Know Your Surroundings: Exploiting Scene Information for Object Tracking." 
   [[paper](http://arxiv.org/abs/2003.11014)]
-  [[code]()]
+
   
 - **[CLNet]** Xingping Dong, Jianbing Shen, Ling Shao, Fatih Porikli.<br />
   "CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers"
@@ -46,17 +46,17 @@
 - **[DCFST]** Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, Hanqing Lu.<br />
   "Learning Feature Embeddings for Discriminant Model based Tracking"
   [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749.pdf)]
-  [[code]()]
+
   
 - **[PG-Net]** Bingyan Liao, Chenye Wang, Yayun Wang, Yaonong Wang, Jun Yin<br />
   "PG-Net: Pixel to Global Matching Network for Visual Tracking"
   [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)]
-  [[code]()]
+
   
 - **[]** Yuan Liu, Ruoteng Li, Yu Cheng, Robby T.Tan, Xiubao Sui<br />
   "Object Tracking using Spatio-Temporal Networks for Future Prediction Location"
   [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
-  [[code]()]
+
   
 - **[RTAA]** Shuai Jia, Chao Ma, Yibing Song and Xiaokang Yang.<br />
   "Robust Tracking against Adversarial Attacks"
@@ -66,12 +66,12 @@
 - **[FAN]** Siyuan Liang, Xingxing Wei, Siyuan Yao, Xiaochun Cao.<br />
   "Efficient Adversarial Attacks for Visual Object Tracking"
   [[paper](http://xxx.itp.ac.cn/pdf/2008.00217v1)]
-  [[code]()]
+
   
 - **[SPARK]** Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu.<br />
   "SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking"
   [[paper](http://xxx.itp.ac.cn/pdf/1910.08681v4)]
-  [[code]()]
+
 
 
 
