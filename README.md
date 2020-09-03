@@ -22,8 +22,13 @@
   [[code](https://github.com/MCG-NJU/FCOT)]
   
 - **[RPT]** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin.<br />
-  "RPT: Learning Point Set Representation for Siamese Visual Tracking"
+  "RPT: Learning Point Set Representation for Siamese Visual Tracking"  (**VOT-2020 baseline #1**)
   [[paper](http://xxx.itp.ac.cn/pdf/2008.03467)]
+  
+- **[AlphaRef]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
+  "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**)
+  [[paper](http://arxiv.org/abs/2007.02024)]
+  [[code](https://github.com/MasterBin-IIAU/AlphaRefin)]
 
 
 ### ECCV 2020
