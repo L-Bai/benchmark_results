@@ -25,6 +25,8 @@
   "RPT: Learning Point Set Representation for Siamese Visual Tracking"  (**VOT-2020 baseline #1**)
   [[paper](http://xxx.itp.ac.cn/pdf/2008.03467)]
   
+  
+### CVPR 2021
 - **[AlphaRef]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
   "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**)
   [[paper](http://arxiv.org/abs/2007.02024)]
