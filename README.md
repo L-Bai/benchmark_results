@@ -21,9 +21,6 @@
   [[paper](https://arxiv.org/abs/2004.07109)]
   [[code](https://github.com/MCG-NJU/FCOT)]
   
-- **[RPT]** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin.<br />
-  "RPT: Learning Point Set Representation for Siamese Visual Tracking"  (**VOT-2020 baseline #1**)
-  [[paper](http://xxx.itp.ac.cn/pdf/2008.03467)]
   
   
 ### CVPR 2021
@@ -80,7 +77,11 @@
   "SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking"
   [[paper](http://xxx.itp.ac.cn/pdf/1910.08681v4)]
 
-
+#### ECCVW 2020
+- **[RPT]** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin.<br />
+  "RPT: Learning Point Set Representation for Siamese Visual Tracking"  (**VOT-2020 baseline #1**)
+  [[paper](http://xxx.itp.ac.cn/pdf/2008.03467)]
+  [[code](https://github.com/zhanght021/RPT)]
 
 
 ### CVPR2020
