@@ -16,10 +16,7 @@
   [[code]()]
   
 ### :star2: lately :star2:
-- **[FCOT]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br />
-  "Fully Convolutional Online Tracking"
-  [[paper](https://arxiv.org/abs/2004.07109)]
-  [[code](https://github.com/MCG-NJU/FCOT)]
+
   
   
   
@@ -27,8 +24,16 @@
 - **[AlphaRef]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
   "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**)
   [[paper](http://arxiv.org/abs/2007.02024)]
-  [[code](https://github.com/MasterBin-IIAU/AlphaRefin)]
+  [[paper_new](http://xxx.itp.ac.cn/abs/2012.06815)]
+  [[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
 
+
+### other 2020
+- **[FCOT]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br />
+  "Fully Convolutional Online Tracking"
+  [[paper](https://arxiv.org/abs/2004.07109)]
+  [[code](https://github.com/MCG-NJU/FCOT)]
+  
 
 ### ECCV 2020
 - **[Ocean]** Zhipeng Zhang, Houwen Peng. <br />
