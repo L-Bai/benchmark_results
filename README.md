@@ -182,11 +182,12 @@
   "Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning"
   [[paper](http://arxiv.org/abs/1911.11170)]
   
-#### rejected？
-- **[SiamMan]** Wenzhang Zhou, Longyin Wen, Libo Zhang Dawei Du, Tiejian Luo, Yanjun Wu.<br />
-  "SiamMan: Siamese Motion-aware Network for Visual Tracking"
+#### ~~rejected？~~ TIP
+- ~~**[SiamMan]**~~ **[SiamCAN]** Wenzhang Zhou, Longyin Wen, Libo Zhang Dawei Du, Tiejian Luo, Yanjun Wu.<br />
+  ~~"SiamMan: Siamese Motion-aware Network for Visual Tracking"~~ "SiamCAN: Real-time Visual Tracking based on Siamese Center-aware Network"
   [[paper](https://arxiv.org/abs/1912.05515v1)]
-  [[code](https://isrc.iscas.ac.cn/gitlab/research/siamman)]
+  [[paper_new](https://ieeexplore.ieee.org/document/9369121)]
+  [[code](https://isrc.iscas.ac.cn/gitlab/research/siamcan)]
 
 ### ICCV2019
   
