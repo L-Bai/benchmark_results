@@ -26,6 +26,11 @@
   [[paper](http://arxiv.org/abs/2007.02024)]
   [[paper_new](http://xxx.itp.ac.cn/abs/2012.06815)]
   [[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+  
+- **[SiamGAT]** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang,Chunhua Shen. <br />
+  "Graph Attention Tracking"
+  [[paper](http://xxx.itp.ac.cn/pdf/2011.11204.pdf)]
+  [[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
 
 ### other 2020
