@@ -96,7 +96,7 @@
 
 ### CVPR2020
 - **[LTMU]** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
-  "High-Performance Long-Term Tracking with Meta-Updater" (**oral**)
+  "High-Performance Long-Term Tracking with Meta-Updater" (**oral & Best Paper Nomination**)
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)]
   
