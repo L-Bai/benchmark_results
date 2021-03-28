@@ -11,7 +11,7 @@
 ## Visual Trackers
 
 - **[]** <br />
-  ""
+  "" <br />
   [[paper]()]
   [[code]()]
   
@@ -19,30 +19,30 @@
 
 ### :star2: Transformer :star2:
 - **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
-  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking"
+  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking" <br />
   [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
   [[code](https://github.com/594422814/TransformerTrack)]
 
 - **[TransT]** <br />
-  ""
+  "" <br />
   [[paper]()]
   [[code](https://github.com/chenxin-dlut/TransT)]
 
 - **[Stark]** <br />
-  ""
+  "" <br />
   [[paper]()]
   [[code](https://github.com/researchmm/Stark)]
   
   
 ### CVPR 2021
 - **[AlphaRef]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
-  "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**)
+  "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**) <br />
   [[paper](http://arxiv.org/abs/2007.02024)]
   [[paper_new](http://xxx.itp.ac.cn/abs/2012.06815)]
   [[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
   
 - **[SiamGAT]** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang,Chunhua Shen. <br />
-  "Graph Attention Tracking"
+  "Graph Attention Tracking" <br />
   [[paper](http://xxx.itp.ac.cn/pdf/2011.11204.pdf)]
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
