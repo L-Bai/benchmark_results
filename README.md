@@ -20,6 +20,11 @@
   "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
   [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
   [[code](https://github.com/visionml/pytracking)]
+  
+  - **[lighttrack]** <br />
+  "" <br />
+  [[paper]()]
+  [[code](https://github.com/cvpr-2021/lighttrack)]
 
 ### :star2: Transformer :star2:
 - **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
@@ -27,9 +32,9 @@
   [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
   [[code](https://github.com/594422814/TransformerTrack)]
 
-- **[TransT]** <br />
-  "" <br />
-  [[paper]()]
+- **[TransT]** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang Huchuan Lu. <br />
+  "Transformer Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2103.15436.pdf)]
   [[code](https://github.com/chenxin-dlut/TransT)]
 
 - **[Stark]** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
