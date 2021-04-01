@@ -17,12 +17,8 @@
   
 ### :star2: lately :star2:
 
-  
 
-
-### :star2: Transformer :star2:
-
-  
+****   
  
 ### CVPR 2021
 - **[AlphaRef]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
