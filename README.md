@@ -17,6 +17,25 @@
   
 ### :star2: lately :star2:
 
+- **[]** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
+  "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
+  [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
+  [[code]()]
+  
+  - **[]** Jinghao Zhou, Bo Li, Lei Qiao, Peng Wang, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
+  "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
+  [[paper](https://arxiv.org/pdf/2103.10089.pdf)]
+  [[code]()]
+  
+- **[TREG]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. <br />
+  "Target Transformed Regression for Accurate Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2104.00403.pdf)]
+  [[code](https://github.com/MCG-NJU/TREG)]
+
+- **[STMTrack]** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. <br />
+  "STMTrack: Template-free Visual Tracking with Space-time Memory Networks" <br />
+  [[paper](https://arxiv.org/pdf/2104.00324.pdf)]
+  [[code](https://github.com/fzh0917/STMTrack)]
 
 ****   
  
