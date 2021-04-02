@@ -22,8 +22,8 @@
   [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
   [[code]()]
   
-  - **[]** Jinghao Zhou, Bo Li, Lei Qiao, Peng Wang, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
-  "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
+- **[]** Jinghao Zhou, Bo Li, Lei Qiao, Peng Wang, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
+  "Higher Performance Visual Tracking with Dual-Modal Localization" <br />
   [[paper](https://arxiv.org/pdf/2103.10089.pdf)]
   [[code]()]
   
