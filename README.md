@@ -36,6 +36,11 @@
   "STMTrack: Template-free Visual Tracking with Space-time Memory Networks" <br />
   [[paper](https://arxiv.org/pdf/2104.00324.pdf)]
   [[code](https://github.com/fzh0917/STMTrack)]
+  
+- **[SiamRN]** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li*, Jing Wang2<br />
+  "Learning to Filter: Siamese Relation Network for Robust Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2104.00829.pdf)]
+  [[code](https://github.com/hqucv/siamrn)]
 
 ****   
  
