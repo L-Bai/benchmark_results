@@ -65,6 +65,12 @@
   "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
   [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
   [[code](https://github.com/visionml/pytracking)]
+  
+- **[]** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong<br />
+  "Unsupervised Visual Representation Learning by Tracking Patches in Video" <br />
+  [[paper]()]
+  [[code]()]
+  
 
 #### :star2: Transformer :star2:
 - **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
