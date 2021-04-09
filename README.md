@@ -37,10 +37,7 @@
   [[paper](https://arxiv.org/pdf/2104.00324.pdf)]
   [[code](https://github.com/fzh0917/STMTrack)]
   
-- **[SiamRN]** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li*, Jing Wang2<br />
-  "Learning to Filter: Siamese Relation Network for Robust Tracking" <br />
-  [[paper](https://arxiv.org/pdf/2104.00829.pdf)]
-  [[code](https://github.com/hqucv/siamrn)]
+
 
 ****   
  
@@ -57,7 +54,7 @@
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
   
 - **[lighttrack]** <br />
-  "" (**NAS**)<br />
+  "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (**NAS**)<br />
   [[paper]()]
   [[code](https://github.com/cvpr-2021/lighttrack)]
   
@@ -65,6 +62,11 @@
   "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
   [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
   [[code](https://github.com/visionml/pytracking)]
+
+- **[SiamRN]** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li*, Jing Wang2<br />
+  "Learning to Filter: Siamese Relation Network for Robust Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2104.00829.pdf)]
+  [[code](https://github.com/hqucv/siamrn)]
   
 - **[]** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong<br />
   "Unsupervised Visual Representation Learning by Tracking Patches in Video" <br />
@@ -74,7 +76,7 @@
 
 #### :star2: Transformer :star2:
 - **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
-  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking" <br />
+  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking" (**Oral**)<br />
   [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
   [[code](https://github.com/594422814/TransformerTrack)]
 
