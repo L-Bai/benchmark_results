@@ -63,7 +63,7 @@
   [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
   [[code](https://github.com/visionml/pytracking)]
 
-- **[SiamRN]** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li*, Jing Wang2<br />
+- **[SiamRN]** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang2<br />
   "Learning to Filter: Siamese Relation Network for Robust Tracking" <br />
   [[paper](https://arxiv.org/pdf/2104.00829.pdf)]
   [[code](https://github.com/hqucv/siamrn)]
