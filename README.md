@@ -56,7 +56,7 @@
 - **[lighttrack]** <br />
   "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (**NAS**)<br />
   [[paper]()]
-  [[code](https://github.com/cvpr-2021/lighttrack)]
+  [[code](https://github.com/researchmm/LightTrack)]
   
 - **[]** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool<br />
   "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
