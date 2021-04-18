@@ -989,6 +989,14 @@
 
 ## Benchmark
 
+- **TREK-100** Matteo Dunnhofer, Antonino Furnari,  Giovanni Maria Farinella, Christian Micheloni <br />
+  "Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset"  <br /> 
+  [[project](https://machinelearning.uniud.it/datasets/trek100/)]
+  
+- **GOT-10k** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br /> 
+  "GOT-10k: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild"  <br /> 
+  [[project](http://got-10k.aitestunion.com/)]
+
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
   "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2018). 
   [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
