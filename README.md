@@ -330,7 +330,7 @@
 
 * **[ASRCF]** Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li. <br />
   "Visual Tracking via Adaptive Spatially-Regularized Correlation Filters." CVPR (2019 **oral**).
-  [[paper]()]
+  [[paper]]
   [[code](https://github.com/Daikenan/ASRCF)]
 
 * **UDT:** Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li.<br />
