@@ -20,12 +20,12 @@
 - **[]** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
   "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
   [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
-  [[code]()]
+  [[code]]
   
 - **[]** Jinghao Zhou, Bo Li, Lei Qiao, Peng Wang, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
   "Higher Performance Visual Tracking with Dual-Modal Localization" <br />
   [[paper](https://arxiv.org/pdf/2103.10089.pdf)]
-  [[code]()]
+  [[code]]
   
 - **[TREG]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. <br />
   "Target Transformed Regression for Accurate Tracking" <br />
@@ -36,6 +36,16 @@
   "STMTrack: Template-free Visual Tracking with Space-time Memory Networks" <br />
   [[paper](https://arxiv.org/pdf/2104.00324.pdf)]
   [[code](https://github.com/fzh0917/STMTrack)]
+  
+- **[SiamSTM]** Jinpu Zhang, Yuehuan Wang<br />
+  "Spatio-Temporal Matching for Siamese Visual Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2105.02408.pdf)]
+  [[code]]
+
+- **[TrTr]** Moju Zhao, Kei Okada, Masayuki Inaba <br />
+  "TrTr: Visual Tracking with Transformer" <br />
+  [[paper](https://arxiv.org/pdf/2105.03817.pdf)]
+  [[code](https://github.com/tongtybj/TrTr)]
   
 
 
@@ -55,7 +65,7 @@
   
 - **[lighttrack]** <br />
   "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (**NAS**)<br />
-  [[paper]()]
+  [[paper](https://arxiv.org/abs/2104.14545)]
   [[code](https://github.com/researchmm/LightTrack)]
   
 - **[]** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool<br />
@@ -68,11 +78,11 @@
   [[paper](https://arxiv.org/pdf/2104.00829.pdf)]
   [[code](https://github.com/hqucv/siamrn)]
   
-- **[]** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong<br />
+- **[CtP]** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong<br />
   "Unsupervised Visual Representation Learning by Tracking Patches in Video" <br />
-  [[paper]()]
-  [[code]()]
-  
+  [[paper](https://arxiv.org/pdf/2105.02545.pdf)]
+  [[code](https://github.com/microsoft/CtP)]
+
 
 #### :star2: Transformer :star2:
 - **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
