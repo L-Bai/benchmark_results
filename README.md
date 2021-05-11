@@ -49,7 +49,7 @@
 ****   
  
 ### CVPR 2021
-- **[AlphaRef]** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
+- **[AlphaRef]** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
   "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**) <br />
   [[paper](http://arxiv.org/abs/2007.02024)]
   [[paper_new](http://xxx.itp.ac.cn/abs/2012.06815)]
