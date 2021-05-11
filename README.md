@@ -32,10 +32,7 @@
   [[paper](https://arxiv.org/pdf/2104.00403.pdf)]
   [[code](https://github.com/MCG-NJU/TREG)]
 
-- **[STMTrack]** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. <br />
-  "STMTrack: Template-free Visual Tracking with Space-time Memory Networks" <br />
-  [[paper](https://arxiv.org/pdf/2104.00324.pdf)]
-  [[code](https://github.com/fzh0917/STMTrack)]
+
   
 - **[SiamSTM]** Jinpu Zhang, Yuehuan Wang<br />
   "Spatio-Temporal Matching for Siamese Visual Tracking" <br />
@@ -83,6 +80,10 @@
   [[paper](https://arxiv.org/pdf/2105.02545.pdf)]
   [[code](https://github.com/microsoft/CtP)]
 
+- **[STMTrack]** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. <br />
+  "STMTrack: Template-free Visual Tracking with Space-time Memory Networks" <br />
+  [[paper](https://arxiv.org/pdf/2104.00324.pdf)]
+  [[code](https://github.com/fzh0917/STMTrack)]
 
 #### :star2: Transformer :star2:
 - **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
