@@ -32,8 +32,6 @@
   [[paper](https://arxiv.org/pdf/2104.00403.pdf)]
   [[code](https://github.com/MCG-NJU/TREG)]
 
-
-  
 - **[SiamSTM]** Jinpu Zhang, Yuehuan Wang<br />
   "Spatio-Temporal Matching for Siamese Visual Tracking" <br />
   [[paper](https://arxiv.org/pdf/2105.02408.pdf)]
@@ -44,7 +42,12 @@
   [[paper](https://arxiv.org/pdf/2105.03817.pdf)]
   [[code](https://github.com/tongtybj/TrTr)]
   
-
+****
+### IJCAI 2021
+- **[SiamRCR]** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin<br />
+  "SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking" <br />
+  [[paper](https://arxiv.org/abs/2105.11237)]
+  [[code]]
 
 ****   
  
@@ -114,8 +117,16 @@
   "Fully Convolutional Online Tracking"
   [[paper](https://arxiv.org/abs/2004.07109)]
   [[code](https://github.com/MCG-NJU/FCOT)]
-  
 
+
+****
+### IJCAI 2020
+- **[TLPG]** Siyuan Li, Zhi Zhang, Ziyu Liu, Anna Wang, Linglong Qiu, Feng Du<br />
+  "TLPG-Tracker: Joint Learning of Target Localization and Proposal Generation for Visual Tracking" <br />
+  [[paper](https://www.ijcai.org/proceedings/2020/99)]
+  [[code]]
+  
+****
 ### ECCV 2020
 - **[Ocean]** Zhipeng Zhang, Houwen Peng. <br />
   "Ocean: Object-aware Anchor-free Tracking"
@@ -169,7 +180,7 @@
   [[paper](http://xxx.itp.ac.cn/pdf/2008.03467)]
   [[code](https://github.com/zhanght021/RPT)]
 
-
+****
 ### CVPR2020
 - **[LTMU]** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
   "High-Performance Long-Term Tracking with Meta-Updater" (**oral & Best Paper Nomination**)
@@ -232,7 +243,7 @@
   [[paper](https://arxiv.org/abs/2006.04078)]
   [[code](https://github.com/ZekuiQin/SiamKPN)]
   
-
+****
 ### AAAI2020
 
 - **[SPSTracker]** Qintao Hu, Lijun Zhou, Xiaoxiao Wang, Yao Mao, Jianlin Zhang, Qixiang Ye.<br />
