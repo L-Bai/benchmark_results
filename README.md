@@ -69,7 +69,7 @@
   [[paper](https://arxiv.org/pdf/2103.15436.pdf)]
   [[code](https://github.com/chenxin-dlut/TransT)]
 
-***** 
+***
 
 - **[AlphaRef]** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
   "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**) <br />
