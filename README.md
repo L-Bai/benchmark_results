@@ -17,6 +17,11 @@
   
 ### :star2: lately :star2:
 
+- **[Stark]** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
+  "Learning Spatio-Temporal Transformer for Visual Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2103.17154.pdf)]
+  [[code](https://github.com/researchmm/Stark)]  
+
 - **[]** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
   "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
   [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
@@ -52,6 +57,20 @@
 ****   
  
 ### CVPR 2021
+
+#### :star2: Transformer :star2:
+- **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
+  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking" (**Oral**)<br />
+  [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
+  [[code](https://github.com/594422814/TransformerTrack)]
+
+- **[TransT]** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang Huchuan Lu. <br />
+  "Transformer Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2103.15436.pdf)]
+  [[code](https://github.com/chenxin-dlut/TransT)]
+
+***** 
+
 - **[AlphaRef]** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
   "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**) <br />
   [[paper](http://arxiv.org/abs/2007.02024)]
@@ -63,7 +82,7 @@
   [[paper](http://xxx.itp.ac.cn/pdf/2011.11204.pdf)]
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
   
-- **[lighttrack]** <br />
+- **[lighttrack]** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu<br />
   "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (**NAS**)<br />
   [[paper](https://arxiv.org/abs/2104.14545)]
   [[code](https://github.com/researchmm/LightTrack)]
@@ -78,6 +97,11 @@
   [[paper](https://arxiv.org/pdf/2104.00829.pdf)]
   [[code](https://github.com/hqucv/siamrn)]
   
+- **[DMTrack]** Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang<br />
+  "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy" <br />
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.html)]
+  [[code](https://github.com/hqucv/dmtrack)]
+  
 - **[CtP]** Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong<br />
   "Unsupervised Visual Representation Learning by Tracking Patches in Video" <br />
   [[paper](https://arxiv.org/pdf/2105.02545.pdf)]
@@ -87,29 +111,42 @@
   "STMTrack: Template-free Visual Tracking with Space-time Memory Networks" <br />
   [[paper](https://arxiv.org/pdf/2104.00324.pdf)]
   [[code](https://github.com/fzh0917/STMTrack)]
-
-#### :star2: Transformer :star2:
-- **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
-  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking" (**Oral**)<br />
-  [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
-  [[code](https://github.com/594422814/TransformerTrack)]
-
-- **[TransT]** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang Huchuan Lu. <br />
-  "Transformer Tracking" <br />
-  [[paper](https://arxiv.org/pdf/2103.15436.pdf)]
-  [[code](https://github.com/chenxin-dlut/TransT)]
-
-- **[Stark]** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
-  "Learning Spatio-Temporal Transformer for Visual Tracking" <br />
-  [[paper](https://arxiv.org/pdf/2103.17154.pdf)]
-  [[code](https://github.com/researchmm/Stark)]  
   
-#### Attack
+- **[CapsuleRRT]** Ding Ma, Xiangqian Wu<br />
+  "CapsuleRRT: Relationships-aware Regression Tracking via Capsules" <br />
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.html)]
+  [[code]]
+  
+- **[PUL]** Qiangqiang Wu Jia Wan Antoni B. Chan<br />
+  "Progressive Unsupervised Learning for Visual Object Tracking" <br />
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.html)]
+  [[code]]
+  
+- **[SNLT]** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff<br />
+  "Siamese Natural Language Tracker: Tracking by Natural Language Descriptions With Siamese Trackers" <br />
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Feng_Siamese_Natural_Language_Tracker_Tracking_by_Natural_Language_Descriptions_With_CVPR_2021_paper.html)]
+  [[code](https://github.com/fredfung007/snlt)]
+  
+- **[Siam-ACM]** Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen<br />
+  "Learning To Fuse Asymmetric Feature Maps in Siamese Trackers" <br />
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Han_Learning_To_Fuse_Asymmetric_Feature_Maps_in_Siamese_Trackers_CVPR_2021_paper.html)]
+  [[code](https://github.com/wencheng256/SiamBAN-ACM)]
+  
 - **[IoUattack]** Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. <br />
   "IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking" <br />
   [[paper](https://arxiv.org/pdf/2103.14938.pdf)]
   [[code](https://github.com/VISION-SJTU/IoUattack)]
 
+- **[RE-SiamNets]** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves<br />
+  "Rotation Equivariant Siamese Networks for Tracking" <br />
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Gupta_Rotation_Equivariant_Siamese_Networks_for_Tracking_CVPR_2021_paper.html)]
+  [[code](https://github.com/dkgupta90/re-siamnet)]
+  
+- **[TNL2K]** Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu <br />
+  "Towards More Flexible and Accurate Object Tracking With Natural Language: Algorithms and Benchmark" <br />
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Towards_More_Flexible_and_Accurate_Object_Tracking_With_Natural_Language_CVPR_2021_paper.html)]
+  [[code](https://sites.google.com/view/langtrackbenchmark/)]
+  
 ****
 
 ### other 2020
