@@ -45,9 +45,9 @@
   [[code](https://github.com/tongtybj/TrTr)]
 
 ### ICCV 2021
-#### :star2: Transformer :star2:
+
 - **[Stark]** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
-  "Learning Spatio-Temporal Transformer for Visual Tracking" <br />
+  "Learning Spatio-Temporal Transformer for Visual Tracking" (:star2: Transformer :star2:) <br />
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)]
   [[code](https://github.com/researchmm/Stark)]  
   
@@ -67,14 +67,13 @@
  
 ### CVPR 2021
 
-#### :star2: Transformer :star2:
 - **[TransformerTrack]** Ning Wang, Wengang Zhou, Jie Wang, and Houqiang Li. <br />
-  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking" (**Oral**)<br />
+  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking" (**Oral**、:star2: Transformer :star2:)<br />
   [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
   [[code](https://github.com/594422814/TransformerTrack)]
 
 - **[TransT]** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang Huchuan Lu. <br />
-  "Transformer Tracking" <br />
+  "Transformer Tracking" (🌟: Transformer 🌟:) <br />
   [[paper](https://arxiv.org/pdf/2103.15436.pdf)]
   [[code](https://github.com/chenxin-dlut/TransT)]
 
@@ -92,7 +91,7 @@
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
   
 - **[lighttrack]** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu<br />
-  "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (**NAS**)<br />
+  "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (🌟：NAS 🌟：)<br />
   [[paper](https://arxiv.org/abs/2104.14545)]
   [[code](https://github.com/researchmm/LightTrack)]
   
