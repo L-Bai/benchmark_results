@@ -17,10 +17,7 @@
   
 ### :star2: lately :star2:
 
-- **[Stark]** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
-  "Learning Spatio-Temporal Transformer for Visual Tracking" <br />
-  [[paper](https://arxiv.org/pdf/2103.17154.pdf)]
-  [[code](https://github.com/researchmm/Stark)]  
+
 
 - **[]** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
   "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
@@ -46,6 +43,18 @@
   "TrTr: Visual Tracking with Transformer" <br />
   [[paper](https://arxiv.org/pdf/2105.03817.pdf)]
   [[code](https://github.com/tongtybj/TrTr)]
+
+### ICCV 2021
+#### :star2: Transformer :star2:
+- **[Stark]** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
+  "Learning Spatio-Temporal Transformer for Visual Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2103.17154.pdf)]
+  [[code](https://github.com/researchmm/Stark)]  
+  
+- **[ABA]** Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao <br />
+  "Learning to Adversarially Blur Visual Object Tracking" <br />
+  [[paper](https://arxiv.org/abs/2107.12085)]
+  [[code](https://github.com/tsingqguo/ABA)]
   
 ****
 ### IJCAI 2021
