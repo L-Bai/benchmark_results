@@ -56,6 +56,16 @@
   [[code](https://github.com/tsingqguo/ABA)]
   
 ****
+
+### WACV 2021
+
+- **[MART]** Heng Fan, Haibin Ling <br />
+  "MART: Motion-Aware Recurrent Neural Network for Robust Visual Tracking" <br />
+  [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Fan_MART_Motion-Aware_Recurrent_Neural_Network_for_Robust_Visual_Tracking_WACV_2021_paper.html)]
+  [[code]]
+
+****
+
 ### IJCAI 2021
 
 - **[SiamRCR]** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin<br />
