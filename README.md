@@ -57,6 +57,20 @@
   
 ****
 
+### AAAI 2021
+
+- **[UATracker]** Lijun Zhou, Antoine Ledent, Qintao Hu, Ting Liu, Jianlin Zhang, Marius Kloft <br />
+  "Model Uncertainty Guides Visual Object Tracking" <br />
+  [[paper](https://ojs-aaai-ex4-oa-ex0-www-webvpn.webvpn2.hrbcu.edu.cn/index.php/AAAI/article/view/16473)]
+  [[code](https://github.com/TrackerLB/UATracker)]
+
+- **[PACNet]** Dawei Zhang, Zhonglong Zheng, Riheng Jia, Minglu Li<br />
+  "Visual Tracking via Hierarchical Deep Reinforcement Learning" <br />
+  [[paper](https://www.aaai.org/AAAI21Papers/AAAI-3094.ZhangD.pdf)]
+  [[code]]
+
+****
+
 ### WACV 2021
 
 - **[MART]** Heng Fan, Haibin Ling <br />
