@@ -18,7 +18,6 @@
 ### :star2: lately :star2:
 
 
-
 - **[]** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
   "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
   [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
@@ -58,6 +57,7 @@
   
 ****
 ### IJCAI 2021
+
 - **[SiamRCR]** Jinlong Peng, Zhengkai Jiang, Yueyang Gu, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin<br />
   "SiamRCR: Reciprocal Classification and Regression for Visual Object Tracking" <br />
   [[paper](https://arxiv.org/abs/2105.11237)]
@@ -73,11 +73,9 @@
   [[code](https://github.com/594422814/TransformerTrack)]
 
 - **[TransT]** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang Huchuan Lu. <br />
-  "Transformer Tracking" (🌟: Transformer 🌟:) <br />
+  "Transformer Tracking" (🌟 Transformer 🌟) <br />
   [[paper](https://arxiv.org/pdf/2103.15436.pdf)]
   [[code](https://github.com/chenxin-dlut/TransT)]
-
-***
 
 - **[AlphaRef]** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
   "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"  (**VOT-2020 realtime #1**) <br />
@@ -91,7 +89,7 @@
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
   
 - **[lighttrack]** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu<br />
-  "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (🌟：NAS 🌟：)<br />
+  "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (🌟 NAS 🌟)<br />
   [[paper](https://arxiv.org/abs/2104.14545)]
   [[code](https://github.com/researchmm/LightTrack)]
   
