@@ -49,12 +49,35 @@
   "Learning Spatio-Temporal Transformer for Visual Tracking" (:star2: Transformer :star2:) <br />
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)]
   [[code](https://github.com/researchmm/Stark)]  
+
+- **[AutoMatch]** Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu <br />
+  "Learn to Match: Automatic Matching Network Design for Visual Tracking" 🌟 <br />
+  [[paper](http://arxiv.org/abs/2108.00803)]
+  [[code](https://github.com/JudasDie/SOTS/)]
   
 - **[ABA]** Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao <br />
   "Learning to Adversarially Blur Visual Object Tracking" <br />
   [[paper](https://arxiv.org/abs/2107.12085)]
   [[code](https://github.com/tsingqguo/ABA)]
-  
+ 
+- **[HiFT]** Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li <br />
+  "HiFT: Hierarchical Feature Transformer for Aerial Tracking"(🌟 Transformer 🌟) <br />
+  [[paper](https://arxiv.org/pdf/2108.00202.pdf)]
+  [[code](https://github.com/vision4robotics/HiFT)]
+
+****
+
+### IROS 2021
+- **[DarkLighter]** Junjie Ye, Changhong Fu, Guangze Zheng, Ziang Cao, Bowen Li<br />
+  "DarkLighter: Light Up the Darkness for UAV Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2107.14389.pdf)]
+  [[code](https://github.com/vision4robotics/DarkLighter)]
+
+- **[SiamAPN++]** Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li<br />
+  "SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking" <br />
+  [[paper](https://arxiv.org/pdf/2106.08816.pdf)]
+  [[code](https://github.com/vision4robotics/SiamAPN)]
+
 ****
 
 ### AAAI 2021
