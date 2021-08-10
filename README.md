@@ -65,6 +65,15 @@
   [[paper](https://arxiv.org/pdf/2108.00202.pdf)]
   [[code](https://github.com/vision4robotics/HiFT)]
 
+- **[VASR]** Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang <br />
+  "Video Annotation for Visual Tracking via Selection and Refinement" <br />
+  [[paper](https://arxiv.org/abs/2108.03821)]
+  [[code](https://github.com/Daikenan/VASR)]
+
+- **[SAOT]** Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He <br />
+  "Saliency-Associated Object Tracking" <br />
+  [[paper](https://arxiv.org/abs/2108.03637)]
+  [[code](https://github.com/ZikunZhou/SAOT)]
 ****
 
 ### IROS 2021
