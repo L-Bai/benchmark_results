@@ -74,6 +74,12 @@
   "Saliency-Associated Object Tracking" <br />
   [[paper](https://arxiv.org/abs/2108.03637)]
   [[code](https://github.com/ZikunZhou/SAOT)]
+
+- **[]** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool<br />
+  "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
+  [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
+  [[code](https://github.com/visionml/pytracking)]
+  
 ****
 
 ### IROS 2021
@@ -148,11 +154,6 @@
   "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search" (🌟 NAS 🌟)<br />
   [[paper](https://arxiv.org/abs/2104.14545)]
   [[code](https://github.com/researchmm/LightTrack)]
-  
-- **[]** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool<br />
-  "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
-  [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
-  [[code](https://github.com/visionml/pytracking)]
 
 - **[SiamRN]** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang2<br />
   "Learning to Filter: Siamese Relation Network for Robust Tracking" <br />
