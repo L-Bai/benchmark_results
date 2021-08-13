@@ -80,6 +80,11 @@
   [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
   [[code](https://github.com/visionml/pytracking)]
   
+- **[]** Bin Zhao, Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte<br />
+  "Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos" <br />
+  [[paper](https://arxiv.org/abs/2101.02196)]
+  [[code](https://github.com/visionml/pytracking)]
+  
 ****
 
 ### IROS 2021
