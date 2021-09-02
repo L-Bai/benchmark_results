@@ -74,6 +74,11 @@
   "Saliency-Associated Object Tracking" <br />
   [[paper](https://arxiv.org/abs/2108.03637)]
   [[code](https://github.com/ZikunZhou/SAOT)]
+  
+- **[USOT]** Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang <br />
+  "Learning to Track Objects from Unlabeled Videos" (:star2: unsupervised 🌟)<br />
+  [[paper](https://arxiv.org/abs/2108.12711)]
+  [[code](https://github.com/VISION-SJTU/USOT)]
 
 - **[]** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool<br />
   "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
