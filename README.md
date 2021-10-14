@@ -80,7 +80,7 @@
   [[paper](https://arxiv.org/abs/2108.12711)]
   [[code](https://github.com/VISION-SJTU/USOT)]
 
-- **[]** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool<br />
+- **[KeepTrack]** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool<br />
   "Learning Target Candidate Association to Keep Track of What Not to Track" <br />
   [[paper](https://arxiv.org/pdf/2103.16556.pdf)]
   [[code](https://github.com/visionml/pytracking)]
@@ -89,6 +89,12 @@
   "Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos" <br />
   [[paper](https://arxiv.org/abs/2101.02196)]
   [[code](https://github.com/visionml/pytracking)]
+  
+- **[DTT]** Bin Yu, Ming Tang, Linyu Zheng, Guibo Zhu, Jinqiao Wang, Hao Feng, Xuetao Feng, Hanqing Lu <br />
+  "High-Performance Discriminative Tracking with Transformers" <br />
+  [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf)]
+  [[code]()]
+  
   
 ****
 
