@@ -67,6 +67,13 @@
   [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
   
 ****
+### ACML 2021
+- **[PCDHV]** Ying Wang, Tingfa Xu, Jianan Li, Shenwang Jiang, Junjie Chen<br />
+  "Pyramid Correlation based Deep Hough Voting for Visual Object Tracking" <br />
+  [[paper](https://arxiv.org/abs/2110.07994)]
+  [[code]]
+  
+****
 ### IJCNN 2021
 - **[TrackMLP]** Tianyu Zhu, Rongkai Ma, Mehrtash Harandi, Tom Drummond<br />
   "Learning Online for Unified Segmentation and Tracking Models" <br />
