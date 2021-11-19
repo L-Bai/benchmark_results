@@ -18,6 +18,22 @@
 ### :star2: lately :star2:
 
 
+### unknown 2021
+- **[ALT]** Di Yuan, Xiaojun Chang, Qiao Liu, Dehua Wang, Zhenyu He<br />
+  "Active Learning for Deep Visual Tracking" <br />
+  [[paper](https://arxiv.org/abs/2110.13259)]
+  [[code]]
+
+- **[RPT++]** Ziang Ma, Haitao Zhang, Linyuan Wang, Jun Yin<br />
+  "RPT++: Customized Feature Representation for Siamese Visual Tracking" <br />
+  [[paper](https://arxiv.org/abs/2110.12194)]
+  [[code]]
+  
+- **[IAT]** Mengmeng Wang, Xiaoqian Yang, Yong Liu<br />
+  "Explicitly Modeling the Discriminability for Instance-Aware Visual Object Tracking" <br />
+  [[paper](https://arxiv.org/abs/2110.15030)]
+  [[code]]
+  
 - **[]** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
   "Real-Time Visual Object Tracking via Few-Shot Learning" <br />
   [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
@@ -43,8 +59,29 @@
   [[paper](https://arxiv.org/pdf/2105.03817.pdf)]
   [[code](https://github.com/tongtybj/TrTr)]
 
-### ICCV 2021
+****
+### WACV 2022
+- **[SiamTPN]** Daitao Xing, Nikolaos Evangeliou, Athanasios Tsoukalas, Anthony Tzes<br />
+  "Siamese Transformer Pyramid Networks for Real-Time UAV Tracking" <br />
+  [[paper](https://arxiv.org/abs/2110.08822)]
+  [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
+  
+****
+### IJCNN 2021
+- **[TrackMLP]** Tianyu Zhu, Rongkai Ma, Mehrtash Harandi, Tom Drummond<br />
+  "Learning Online for Unified Segmentation and Tracking Models" <br />
+  [[paper](https://arxiv.org/abs/2111.06994)]
+  [[code]]
+  
+*****
+### BMVC 2021
+- **[TAPL]** Wei han, Hantao Huang, Xiaoxi Yu<br />
+  "TAPL: Dynamic Part-based Visual Tracking via Attention-guided Part Localization" <br />
+  [[paper](https://arxiv.org/abs/2110.13027)]
+  [[code]]
 
+****
+### ICCV 2021
 - **[Stark]** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. <br />
   "Learning Spatio-Temporal Transformer for Visual Tracking" (:star2: Transformer :star2:) <br />
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)]
