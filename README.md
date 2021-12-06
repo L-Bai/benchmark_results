@@ -19,6 +19,11 @@
 
 
 ### unknown 2021
+- **[SwinTrack]** Liting Lin, Heng Fan, Yong Xu, Haibin Ling <br />
+  "SwinTrack: A Simple and Strong Baseline for Transformer Tracking" (🌟 Transformer 🌟) <br />
+  [[paper](https://arxiv.org/abs/2112.00995)]
+  [[code](https://github.com/LitingLin/SwinTrack)]
+
 - **[ALT]** Di Yuan, Xiaojun Chang, Qiao Liu, Dehua Wang, Zhenyu He<br />
   "Active Learning for Deep Visual Tracking" <br />
   [[paper](https://arxiv.org/abs/2110.13259)]
