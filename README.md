@@ -19,6 +19,16 @@
 
 
 ### unknown 2021
+- **[FEAR]** Vasy, Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiˇri Matas<br />
+  "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker" <br />
+  [[paper](https://arxiv.org/abs/2112.07957)]
+  [[code]]
+  
+- **[E.T.Track]** Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool<br />
+  "Efficient Visual Tracking with Exemplar Transformers" (🌟 Transformer 🌟)<br />
+  [[paper](https://arxiv.org/abs/2112.09686)]
+  [[code](https://github.com/visionml/pytracking)]
+
 - **[SwinTrack]** Liting Lin, Heng Fan, Yong Xu, Haibin Ling <br />
   "SwinTrack: A Simple and Strong Baseline for Transformer Tracking" (🌟 Transformer 🌟) <br />
   [[paper](https://arxiv.org/abs/2112.00995)]
