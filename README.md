@@ -17,8 +17,20 @@
   
 ### :star2: lately :star2:
 
+### arxiv 2022
+- **[TransInMo]** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu<br />
+  "Learning Target-aware Representation for Visual Tracking via Informative Interactions" <br />
+  [[paper](https://arxiv.org/abs/2201.02526)]
+  [[code]]
 
-### unknown 2021
+****
+### WACV 2022
+- **[SiamTPN]** Daitao Xing, Nikolaos Evangeliou, Athanasios Tsoukalas, Anthony Tzes<br />
+  "Siamese Transformer Pyramid Networks for Real-Time UAV Tracking" <br />
+  [[paper](https://arxiv.org/abs/2110.08822)]
+  [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
+
+### arxiv 2021
 - **[FEAR]** Vasy, Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiˇri Matas<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker" <br />
   [[paper](https://arxiv.org/abs/2112.07957)]
@@ -73,13 +85,6 @@
   "TrTr: Visual Tracking with Transformer" <br />
   [[paper](https://arxiv.org/pdf/2105.03817.pdf)]
   [[code](https://github.com/tongtybj/TrTr)]
-
-****
-### WACV 2022
-- **[SiamTPN]** Daitao Xing, Nikolaos Evangeliou, Athanasios Tsoukalas, Anthony Tzes<br />
-  "Siamese Transformer Pyramid Networks for Real-Time UAV Tracking" <br />
-  [[paper](https://arxiv.org/abs/2110.08822)]
-  [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
   
 ****
 ### ACML 2021
