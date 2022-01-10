@@ -17,7 +17,8 @@
   
 ### :star2: lately :star2:
 
-### arxiv 2022
+***
+### ArXiv 2022
 - **[TransInMo]** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu<br />
   "Learning Target-aware Representation for Visual Tracking via Informative Interactions" <br />
   [[paper](https://arxiv.org/abs/2201.02526)]
@@ -30,7 +31,8 @@
   [[paper](https://arxiv.org/abs/2110.08822)]
   [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
 
-### arxiv 2021
+***
+### ArXiv 2021
 - **[FEAR]** Vasy, Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiˇri Matas<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker" <br />
   [[paper](https://arxiv.org/abs/2112.07957)]
