@@ -24,6 +24,13 @@
   [[paper](https://arxiv.org/abs/2201.02526)]
   [[code]]
 
+***
+### AAAI 2022
+- **[HDM]** Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li<br />
+  "Homography Decomposition Networks for Planar Object Tracking" <br />
+  [[paper](https://arxiv.org/abs/2112.07909)]
+  [[code](https://github.com/zhanxinrui/HDN)]
+
 ****
 ### WACV 2022
 - **[SiamTPN]** Daitao Xing, Nikolaos Evangeliou, Athanasios Tsoukalas, Anthony Tzes<br />
