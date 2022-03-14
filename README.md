@@ -19,11 +19,20 @@
 
 ***
 ### ArXiv 2022
+- **[(SimTrack]** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang<br />
+  "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking" <br />
+  [[paper](https://arxiv.org/abs/2203.05328)]
+  [[code]]
+  
 - **[TransInMo]** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu<br />
   "Learning Target-aware Representation for Visual Tracking via Informative Interactions" <br />
   [[paper](https://arxiv.org/abs/2201.02526)]
   [[code]]
-
+  
+- **[DMT]** Yan Xia, Qiangqiang Wu, Tianyu Yang, Wei Li, Antoni B. Chan, Uwe Stilla<br />
+  "A Lightweight and Detector-free 3D Single Object Tracker on Point Clouds" <br />
+  [[paper](https://arxiv.org/abs/2203.04232)]
+  [[code]]
 
 ***
 ### CVPR 2022
@@ -36,7 +45,11 @@
   "Correlation-Aware Deep Tracking" <br />
   [[paper](https://arxiv.org/abs/2203.01666)]
   [[code]]
-  
+
+- **[MM-Track]** Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li<br />
+  "Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds" <br />
+  [[paper](https://arxiv.org/abs/2203.01730)]
+  [[code](https://github.com/Ghostish/Open3DSOT)]
   
 ***
 ### ICRA 2022
