@@ -19,6 +19,11 @@
 
 ***
 ### ArXiv 2022
+- **[RTS]** Matthieu Paul, Martin Danelljan, Christoph Mayer, Luc Van Gool<br />
+  "Robust Visual Tracking by Segmentation" <br />
+  [[paper](https://arxiv.org/abs/2203.11191)]
+  [[code](https://github.com/visionml/pytracking)]
+
 - **[(SimTrack]** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang<br />
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking" <br />
   [[paper](https://arxiv.org/abs/2203.05328)]
@@ -36,6 +41,11 @@
 
 ***
 ### CVPR 2022
+- **[ToMP]** Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool<br />
+  "Transforming Model Prediction for Tracking" <br />
+  [[paper](https://arxiv.org/abs/2203.11192)]
+  [[code](https://github.com/visionml/pytracking)]
+  
 - **[TCTrack]** Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu<br />
   "TCTrack: Temporal Contexts for Aerial Tracking" <br />
   [[paper](https://arxiv.org/abs/2203.01885)]
