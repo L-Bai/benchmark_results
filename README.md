@@ -20,7 +20,7 @@
 ***
 ### ArXiv 2022
 - **[OSTrack]** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan<br />
-  "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework" <br />
+  "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework" :star2:<br />
   [[paper](https://arxiv.org/abs/2203.11991)]
   [[code](https://github.com/botaoye/OSTrack)]
   
