@@ -19,6 +19,11 @@
 
 ***
 ### ArXiv 2022
+- **[OSTrack]** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan<br />
+  "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework" <br />
+  [[paper](https://arxiv.org/abs/2203.11991)]
+  [[code](https://github.com/botaoye/OSTrack)]
+  
 - **[RTS]** Matthieu Paul, Martin Danelljan, Christoph Mayer, Luc Van Gool<br />
   "Robust Visual Tracking by Segmentation" <br />
   [[paper](https://arxiv.org/abs/2203.11191)]
@@ -41,6 +46,11 @@
 
 ***
 ### CVPR 2022
+- **[MixForme]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu<br />
+  "MixFormer: End-to-End Tracking with Iterative Mixed Attention" <br />
+  [[paper](http://arxiv.org/abs/2203.11082)]
+  [[code](https://github.com/MCG-NJU/MixFormer)]
+
 - **[ToMP]** Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool<br />
   "Transforming Model Prediction for Tracking" <br />
   [[paper](https://arxiv.org/abs/2203.11192)]
