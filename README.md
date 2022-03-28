@@ -29,7 +29,7 @@
   [[paper](https://arxiv.org/abs/2203.11191)]
   [[code](https://github.com/visionml/pytracking)]
 
-- **[(SimTrack]** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang<br />
+- **[SimTrack]** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang<br />
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking" <br />
   [[paper](https://arxiv.org/abs/2203.05328)]
   [[code]]
