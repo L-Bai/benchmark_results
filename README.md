@@ -46,6 +46,16 @@
 
 ***
 ### CVPR 2022
+- **[GTELT]** Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, Zhenyu He <br />
+  "Global Tracking via Ensemble of Local Trackers" <br />
+  [[paper](https://arxiv.org/abs/2203.16092)]
+  [[code](https://github.com/ZikunZhou/GTELT)]
+
+- **[Trackron]** Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan <br />
+  "Unified Transformer Tracker for Object Tracking" :star:**SOT & MOT**:star:<br />
+  [[paper](https://arxiv.org/abs/2203.15175)]
+  [[code](https://github.com/Flowerfan/Trackron)]
+  
 - **[MixForme]** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu<br />
   "MixFormer: End-to-End Tracking with Iterative Mixed Attention" <br />
   [[paper](http://arxiv.org/abs/2203.11082)]
