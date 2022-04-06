@@ -19,6 +19,11 @@
 
 ***
 ### ArXiv 2022
+- **[CAJMU]** Qiuhong Shen, Xin Li, Fanyang Meng, Yongsheng Liang<br />
+  "Context-aware Visual Tracking with Joint Meta-updating" <br />
+  [[paper](https://arxiv.org/abs/2204.01513)]
+  [[code]]
+  
 - **[OSTrack]** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan<br />
   "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework" :star2:**SOTA**:star2:<br />
   [[paper](https://arxiv.org/abs/2203.11991)]
@@ -46,6 +51,11 @@
 
 ***
 ### CVPR 2022
+- **[ULAST]** Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang <br />
+  "Unsupervised Learning of Accurate Siamese Tracking" <br />
+  [[paper](https://arxiv.org/abs/2204.01475)]
+  [[code](https://github.com/FlorinShum/ULAST)]
+  
 - **[GTELT]** Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, Zhenyu He <br />
   "Global Tracking via Ensemble of Local Trackers" <br />
   [[paper](https://arxiv.org/abs/2203.16092)]
