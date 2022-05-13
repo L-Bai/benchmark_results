@@ -10,12 +10,11 @@
 
 ## Visual Trackers
 
+### :star2: lately :star2:
 - **[]** <br />
   "" <br />
   [[paper]()]
   [[code]()]
-  
-### :star2: lately :star2:
 
 ### Review 
 - **[]** <br />
