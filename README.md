@@ -63,6 +63,11 @@
 
 ***
 ### CVPR 2022
+- **[RBO]** Feng Tang, Qiang Ling<br />
+  "Ranking-Based Siamese Visual Tracking" <br />
+  [[paper](https://arxiv.org/abs/2205.11761)]
+  [[code](https://github.com/sansanfree/RBO)]
+  
 - **[CSWinTT]** Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang <br />
   "Transformer Tracking with Cyclic Shifting Window Attention" <br />
   [[paper](https://arxiv.org/abs/2205.03806)]
